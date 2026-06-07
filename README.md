@@ -17,7 +17,7 @@ $ echo $STATUS
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend**
 `React` `Next.js` `TypeScript` `Tailwind CSS`
