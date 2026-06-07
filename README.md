@@ -1,5 +1,5 @@
 <!-- Header -->
-<div align="center">
+<div align="left">
 
 ```
 $ whoami
