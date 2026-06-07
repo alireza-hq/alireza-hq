@@ -17,7 +17,7 @@ $ echo $STATUS
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend**
 `React` `Next.js` `TypeScript` `Tailwind CSS`
@@ -30,18 +30,18 @@ $ echo $STATUS
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🖥️ Interactive Portfolio
+### Interactive Portfolio
 Developer workspace featuring a custom terminal, resume inspector, and project explorer.
 `Next.js` `TypeScript` `Tailwind CSS`
 → [Live](https://alireza-h-dev.vercel.app)
 
-### 📊 Internal Operations Dashboard
+### Internal Operations Dashboard
 Internal company platform for authentication, tickets, forms, monitoring, and administrative workflows.
 `React` `Node.js` `PostgreSQL`
 
-### 🛒 E-Commerce Platform
+### E-Commerce Platform
 Full-stack e-commerce application with authentication, product management, checkout, and order workflows.
 `Next.js` `Express` `PostgreSQL`
 
