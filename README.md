@@ -4,7 +4,7 @@ Software Developer
 
 Building practical web applications with React, Next.js, and TypeScript.
 
-I enjoy turning ideas into products, improving existing systems, and writing software that stays maintainable as it grows.
+I enjoy building things, improving existing systems, and writing software that stays maintainable as it grows.
 
 ## Current Stack
 
